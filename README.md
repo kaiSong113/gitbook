@@ -1,9 +1,8 @@
-# Summary
+# akasha
 
-* [Introduction](SUMMARY.md)
+### Functions
+* [chain_of_thought](chain_of_thought.md)
 
-* [Test](語言模型.md)
+* [get_response](get_response.md)
 
-* [Test2](文件搜尋.md)
-
-* [Test3](安裝&使用.md)
+* [ask_whole_file](ask_whole_file.md)
