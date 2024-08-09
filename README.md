@@ -3,7 +3,7 @@
 ### 安裝＆設定
 * [安裝&使用](安裝&使用.md)
 
-* [設定API Key](設定API Key.md)
+* [設定API_Key](設定API_Key.md)
 
 ### 文檔問答
 * [get_response](get_response.md)
